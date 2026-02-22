@@ -1,0 +1,28 @@
+{
+  "placeholderImages": [
+    {
+      "id": "super-star-health-insurance",
+      "description": "A family sheltered by an umbrella, representing protection.",
+      "imageUrl": "https://images.unsplash.com/photo-1766973117841-e919298728e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxmYW1pbHklMjBwcm90ZWN0aW9ufGVufDB8fHx8MTc3MTY3NTE4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "family protection"
+    },
+    {
+      "id": "cancer-care-platinum",
+      "description": "Hands holding a ribbon, symbolizing support for cancer patients.",
+      "imageUrl": "https://images.unsplash.com/photo-1766066015219-b10a97dbb781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjYW5jZXIlMjBzdXBwb3J0fGVufDB8fHx8MTc3MTc2NDM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cancer support"
+    },
+    {
+      "id": "star-women-care",
+      "description": "A mother holding her child, representing women's and maternity care.",
+      "imageUrl": "https://images.unsplash.com/photo-1589169011402-8b2cbd1ee593?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxtb3RoZXIlMjBjaGlsZHxlbnwwfHx8fDE3NzE3NjQzODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mother child"
+    },
+    {
+      "id": "star-health-assure",
+      "description": "A symbolic representation of health assurance and peace of mind.",
+      "imageUrl": "https://images.unsplash.com/photo-1762340916350-ad5a3d620c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxoZWFsdGglMjBzZWN1cml0eXxlbnwwfHx8fDE3NzE3NjY2NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "health security"
+    }
+  ]
+}
